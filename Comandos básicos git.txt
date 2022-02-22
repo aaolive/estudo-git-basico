@@ -1,0 +1,11 @@
+Clonar repositorio
+git clone
+
+Adicionar arquivos para commitar
+git add .
+
+Baixar atualizações do repositorio remoto
+git pull
+
+Enviar atualiacoes para o repositorio remoto
+git push
